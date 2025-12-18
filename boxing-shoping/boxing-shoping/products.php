@@ -316,7 +316,7 @@
                <div class="container">
                 <center>
                    <p>Copyright &copy Boxing-shoping</a> Store. All Rights Reserved.</p>
-                   <p>This website is developed by Lis Salihu</p>
+                   <p>This website is developed by Amar Dushullovci</p>
                </center>
                </div>
            </footer>
